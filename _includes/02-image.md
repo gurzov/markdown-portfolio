@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Recently earned badge on scrum.org](https://static.scrum.org/web/badges/badge-pspoi.svg)
